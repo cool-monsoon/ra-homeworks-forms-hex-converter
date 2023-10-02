@@ -38,5 +38,5 @@ export default function Converter() {
         <div className='color-rgb'>{validateValue()}</div>
       </div>
     </div >
-	)
+  )
 }
